@@ -1,5 +1,5 @@
 # IKProject1
-<h3>HR-Human Resorces Applicati0n</h3>
+<h3>HR-Human Resorces Applicati0n</h3> 
 <img width="1100" alt="login" src="https://github.com/user-attachments/assets/c652b0a4-012f-47b2-a28d-f9664f1e3a9c">
 ![7 1](https://github.com/user-attachments/assets/4798e028-7e2d-4ebd-9ad8-ce5dbc2330af)
 ![4 1](https://github.com/user-attachments/assets/5ff4c3ae-8b85-4764-8181-56baa44ea88f)
