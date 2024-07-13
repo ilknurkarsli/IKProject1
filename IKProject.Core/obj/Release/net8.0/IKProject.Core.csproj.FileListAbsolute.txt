@@ -1,0 +1,104 @@
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.deps.json
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.dll
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.pdb
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.sourcelink.json
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.dll
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\refint\IKProject.Core.dll
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.pdb
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\ref\IKProject.Core.dll
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.deps.json
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.dll
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.pdb
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.sourcelink.json
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.dll
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\refint\IKProject.Core.dll
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.pdb
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\ref\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.deps.json
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.sourcelink.json
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\refint\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\ref\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.deps.json
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.sourcelink.json
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\refint\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\ref\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.deps.json
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.sourcelink.json
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\refint\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\ref\IKProject.Core.dll
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.deps.json
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.dll
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.pdb
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.AssemblyReference.cache
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfoInputs.cache
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfo.cs
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.sourcelink.json
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.dll
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\refint\IKProject.Core.dll
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.pdb
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\ref\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.deps.json
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.sourcelink.json
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\refint\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\ref\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.deps.json
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Core\bin\Release\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.sourcelink.json
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\refint\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Core\obj\Release\net8.0\ref\IKProject.Core.dll

@@ -1,0 +1,224 @@
+C:\Users\pc\Desktop\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\pc\Desktop\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\pc\Desktop\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\pc\Desktop\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\pc\Desktop\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\pc\Desktop\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\pc\Desktop\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\pc\Desktop\Project\IKProject.Application\obj\Debug\net8.0\IKProjec.3F6E4207.Up2Date
+C:\Users\pc\Desktop\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\pc\Desktop\Project\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\pc\Desktop\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\pc\Desktop\Project\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\obj\Debug\net8.0\IKProjec.3F6E4207.Up2Date
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\gokha\OneDrive\Masaüstü\Project\Project\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProjec.3F6E4207.Up2Date
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\gokha\OneDrive\Masaüstü\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\Lenovo\Desktop\Projenin kopyası(21.30)28.05.2024 Kopya\Project\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\Lenovo\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProjec.3F6E4207.Up2Date
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\pc\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\Lenovo\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProjec.3F6E4207.Up2Date
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\user\Desktop\IKProjesi\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProjec.3F6E4207.Up2Date
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\user\Desktop\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProjec.3F6E4207.Up2Date
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\gokha\Downloads\IKProjesiilk 1\IKProjesiilk\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProjec.3F6E4207.Up2Date
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\user\Desktop\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProjec.3F6E4207.Up2Date
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\gokha\Downloads\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProjec.3F6E4207.Up2Date
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\user\Desktop\IKProjesi 6\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.deps.json
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Application.pdb
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.dll
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\bin\Debug\net8.0\IKProject.Core.pdb
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.sourcelink.json
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProjec.3F6E4207.Up2Date
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\refint\IKProject.Application.dll
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\IKProject.Application.pdb
+C:\Users\user\Desktop\IKProjesib\IKProjesi\Project\IKProject.Application\obj\Debug\net8.0\ref\IKProject.Application.dll
