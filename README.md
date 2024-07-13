@@ -1,5 +1,11 @@
 # IKProject1
 <h3>HR-Human Resorces Applicati0n</h3> 
+<p>Bu proje, şirketlerin personel yönetimini daha verimli ve etkili bir hale getirecek özelliklerle donatıldı. Site Yöneticisi paneli üzerinden şirket ve şirket yöneticisi ekleme, listeleme işlemleri yapılabilirken; Şirket Yöneticisi panelinde personel ekleme, listeleme işlemleri yapılıyor ve personel tarafından oluşturulan izin, avans ve harcama taleplerinin yönetici tarafından görüntülenip onaylanması veya reddedilmesi sağlanıyor. Ayrıca, personel kendi izin, avans, harcama taleplerini kolaylıkla oluşturabiliyor ve listeleyebiliyor.
+Projemizi Azure ve Cloud Database'i kullanarak yaptık.
+Projemde kullandığım teknolojiler:
+Backend: C#, Onion Architecture, OOP, Entity Framework, MSSQL, Web API
+Frontend: React.js, HTML, CSS, JavaScript
+Diğer Teknolojiler: Automapper, UnitOfWork, DTO, Identity</p>
 <img width="1100" alt="login" src="https://github.com/user-attachments/assets/c652b0a4-012f-47b2-a28d-f9664f1e3a9c">
 
 ![9](https://github.com/user-attachments/assets/623bfd36-0a70-4daf-bb77-2e04f22eb5aa)
